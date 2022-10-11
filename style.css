@@ -1,1 +1,8 @@
-l
+body{
+  background-color: white;
+  background-image: url("images/space.jpg");
+}
+img{
+  height: 300px;
+  width: 300px;
+}
